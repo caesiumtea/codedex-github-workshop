@@ -1,2 +1,1 @@
-Hi, updateing the originla line this is Dharma.
-THis is a conflict.
+Hi, this is Dharma.
